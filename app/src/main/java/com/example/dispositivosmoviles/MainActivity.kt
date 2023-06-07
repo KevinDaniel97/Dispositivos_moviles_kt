@@ -34,10 +34,13 @@ class MainActivity : AppCompatActivity() {
             f.setBackgroundTint(getResources().getColor(android.R.color.holo_blue_light))
             f.show()
         }
+
+
     }
 
     override fun onStart() {
         super.onStart()
+
 
     }
 }
